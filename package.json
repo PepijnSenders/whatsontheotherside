@@ -49,6 +49,7 @@
     "fs-extra": "0.13.0",
     "ghost-s3-storage": "^0.2.1",
     "glob": "4.3.2",
+    "grunt-cli": "^0.1.13",
     "html-to-text": "1.2.0",
     "knex": "0.7.3",
     "lodash": "2.4.1",
