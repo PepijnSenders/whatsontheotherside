@@ -25,7 +25,7 @@
   "scripts": {
     "start": "node index",
     "test": "grunt validate --verbose",
-    "postinstall": "grunt prod"
+    "postinstall": "./node_modules/grunt-cli/bin/grunt prod"
   },
   "engines": {
     "node": "~0.10.0 || ~0.12.0",
